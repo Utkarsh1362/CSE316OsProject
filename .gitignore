@@ -1,0 +1,30 @@
+# Compiled Java classes
+*.class
+
+# JAR files (keep only the release jar in out/)
+src/**/*.jar
+
+# Build artifacts
+bin/
+build/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.eclipse
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+MANIFEST.MF
